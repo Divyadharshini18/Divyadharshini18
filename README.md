@@ -1,5 +1,7 @@
 <!-- HEADER -->
-<h1 align="center"> DIVYADHARSHINI M </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=2F4F4F&text=DIVYADHARSHINI%20M&textBg=false&fontColor=F8F8FF&fontSize=50&fontAlign=50&animation=fadeIn&descAlign=50&desc=DSA%20ENTHUSIAST%20|%20FULL%20STACK%20DEVELOPER&descAlignY=64&fontAlignY=39" alt="DIVYADHARSHINI M Banner"/>
+</p>
 
 <p align="center">
   <i>Full Stack Developer | 3rd Year B.Tech (CSBS) at KIT</i> <br>
