@@ -5,7 +5,7 @@
 
 <p align="center">
   <i>Full Stack Developer | 3rd Year B.Tech (CSBS) at KIT</i> <br>
-  Passionate about building scalable web applications with <b>Java</b> and <b>React.js</b>. <br>
+  Passionate about building scalable web applications with <b>Java</b> and <b>MERN stack</b>. <br>
   Enthusiastic about problem-solving, <b>Data Structures</b>, and <b>Algorithms</b>.
 </p>
 
