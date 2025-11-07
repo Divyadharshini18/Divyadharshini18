@@ -116,4 +116,23 @@
   <i>“Code. Learn. Build. Repeat.”</i>  
 </p>
 
+## Professional Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Professional%20Highlights-0078D7?style=for-the-badge&logo=riseup&logoColor=white" alt="Professional Highlights Badge"/>
+</p>
+
+<ul>
+  <li>Solved over <b>1000+ coding problems</b> across various competitive platforms.</li>
+  <li>Participated in a <b>24-hour hackathon</b> and multiple <b>inter-college tech competitions</b>.</li>
+  <li>Won <b>1st Prize</b> in the <b>Debugging competition</b> at an inter-college technical fest.</li>
+  <li>Achieved <b>CodeChef Max Rating: 1442 (2★)</b>.</li>
+  <li>Regular participant in <b>weekly contests</b> on <b>CodeChef</b> and <b>LeetCode</b>.</li>
+</ul>
+
+<p align="center">
+  <i>"Growth comes from consistency, curiosity, and code."</i>
+</p>
+
+
 
