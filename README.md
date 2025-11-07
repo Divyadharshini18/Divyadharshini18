@@ -116,6 +116,23 @@
   <i>“Code. Learn. Build. Repeat.”</i>  
 </p>
 
+## Certifications and Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certifications%20%26%20Achievements-2E8B57?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Certifications Badge"/>
+</p>
+
+<ul>
+  <li><b>Programming in Java</b> – NPTEL SWAYAM – <b>68% (Elite)</b></li>
+  <li><b>Problem Solving through Programming in C</b> – NPTEL SWAYAM – <b>60% (Elite)</b></li>
+  <li><b>Introduction to Database Management Systems</b> – NPTEL SWAYAM – <b>40%</b></li>
+</ul>
+
+<p align="center">
+  <i>“Certifications reflect learning, achievements reflect growth.”</i>
+</p>
+
+
 ## Professional Highlights
 
 <p align="center">
