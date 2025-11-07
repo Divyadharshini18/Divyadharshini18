@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://github.com/Divyadharshini18">
-    <img src="https://github-readme-stats.vercel.app/api?username=Divyadharshini18&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Divyadharshini's GitHub stats" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Divyadharshini18&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Divyadharshini's GitHub stats" height="181px"/>
   </a>
   <a href="https://github.com/Divyadharshini18">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyadharshini18&theme=default&hide_border=true&background=ffffff&ring=0078D7&fire=FF6E40&currStreakLabel=0078D7" alt="GitHub Streak" height="180px"/>
